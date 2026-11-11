@@ -1,0 +1,21 @@
+{
+  "name": "soes-workflow",
+  "version": "1.1.0",
+  "description": "Soe's skills for going from an idea to something shipped: interview, spec, build, critic, launch, learn, explain.",
+  "author": {
+    "name": "Soe-Reh"
+  },
+  "homepage": "https://github.com/Soe-Reh/soes-skills",
+  "repository": "https://github.com/Soe-Reh/soes-skills",
+  "license": "MIT AND Apache-2.0",
+  "keywords": [
+    "workflow",
+    "spec",
+    "prd",
+    "build",
+    "review",
+    "launch",
+    "explain",
+    "ui"
+  ]
+}

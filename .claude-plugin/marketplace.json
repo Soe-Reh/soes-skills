@@ -1,0 +1,40 @@
+{
+  "name": "soes-skills",
+  "owner": {
+    "name": "Soe-Reh"
+  },
+  "metadata": {
+    "description": "Soe's skills for going from an idea to something shipped."
+  },
+  "plugins": [
+    {
+      "name": "soes-workflow",
+      "source": "./",
+      "description": "interview, spec, build, critic, launch, learn, explain, plus frontend-design, better-ui and animate."
+    },
+    {
+      "name": "superpowers",
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers"
+      },
+      "description": "Optional: Jesse Vincent's Superpowers (brainstorming, TDD, debugging). Installs from its own repo."
+    },
+    {
+      "name": "ponytail",
+      "source": {
+        "source": "github",
+        "repo": "DietrichGebert/ponytail"
+      },
+      "description": "Optional: Dietrich Gebert's ponytail, keeps code changes small. Installs from its own repo."
+    },
+    {
+      "name": "i-have-adhd",
+      "source": {
+        "source": "github",
+        "repo": "ayghri/i-have-adhd"
+      },
+      "description": "Optional: Ayoub Ghriss's i-have-adhd, makes answers short and action-first. Installs from its own repo."
+    }
+  ]
+}

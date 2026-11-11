@@ -1,0 +1,23 @@
+[
+  {
+    "skill": "frontend-design",
+    "repository": "https://github.com/anthropics/skills",
+    "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+    "path": "skills/frontend-design",
+    "license": "Apache-2.0"
+  },
+  {
+    "skill": "better-ui",
+    "repository": "https://github.com/jakubkrehel/skills",
+    "commit": "8b254eb75dadf3615a6abce87aed28e1b6e4d77c",
+    "path": "skills/better-ui",
+    "license": "MIT"
+  },
+  {
+    "skill": "animate",
+    "repository": "https://github.com/emilkowalski/skills",
+    "commit": "715c1807e08c497cfd1dc4feb450a2a3300ef2a9",
+    "path": "skills/animate",
+    "license": "MIT"
+  }
+]
